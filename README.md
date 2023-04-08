@@ -1,3 +1,4 @@
+![logo](https://github.com/fahadjibran1/fahadjibran1/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 <h1 align="center">Hi 👋, I'm Fahad Jibran</h1>
 
 <div class="clear flex>
