@@ -1,5 +1,5 @@
-![logo](https://github.com/fahadjibran1/fahadjibran1/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)height="200"
-<img src="https://github.com/fahadjibran1/fahadjibran1/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png" data-canonical-src="https://github.com/fahadjibran1/fahadjibran1/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png" width="100%" height="200" />
+![logo](https://github.com/fahadjibran1/fahadjibran1/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
+<img src="https://github.com/fahadjibran1/fahadjibran1/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png" data-canonical-src="https://github.com/fahadjibran1/fahadjibran1/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png" width="100%" height="300" />
 <h1 align="center">Hi 👋, I'm Fahad Jibran</h1>
 
 <div class="clear flex>
