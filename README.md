@@ -1,4 +1,5 @@
 ![logo](https://github.com/fahadjibran1/fahadjibran1/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 <h1 align="center">Hi 👋, I'm Fahad Jibran</h1>
 
 <div class="clear flex>
