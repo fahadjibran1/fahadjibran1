@@ -5,7 +5,7 @@
     <h3 align="left">Junior full-stack web developer, I am passionate about staying up-to-date with emerging technologies and and always seeking new challenges to deepen my knowledge and skills.</h3>
   </div>
   <div class="column">
-    <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+    <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" style="border-radius: 15px;">
   </div>
 </div>
 
